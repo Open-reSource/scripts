@@ -1,3 +1,5 @@
+<p align="center"><picture><source srcset=".github/header.svg" type="image/svg+xml"><img src=".github/header.png" width="830" alt="Scripts, by Open {re}Source. Small Node.js scripts for open source maintainers: open issues and pull requests as lists and tables."></picture></p>
+
 # Scripts
 
 Collection of useful scripts linked to open source.
@@ -15,3 +17,5 @@ Collection of useful scripts linked to open source.
     <img src='https://cdn.jsdelivr.net/gh/Open-reSource/sponsors/sponsors.svg'/>
   </a>
 </p>
+
+<sub>The Open {re}Source mark and the header image (`.github/header.*`) are not covered by the licence of this repository: all rights reserved.</sub>
