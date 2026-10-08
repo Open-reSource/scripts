@@ -1,8 +1,6 @@
-<p align="center"><picture><source srcset=".github/header.svg" type="image/svg+xml"><img src=".github/header.png" width="830" alt="Scripts, by Open {re}Source. Small Node.js scripts for open source maintainers: open issues and pull requests as lists and tables."></picture></p>
+<h1 align="center"><picture><source media="(prefers-color-scheme: dark)" srcset=".github/logo-title-dark.svg"><source media="(prefers-color-scheme: light)" srcset=".github/logo-title-light.svg"><img src=".github/logo-title-light.png" width="278" alt="Scripts"></picture></h1>
 
-# Scripts
-
-Collection of useful scripts linked to open source.
+<p align="center">Collection of useful scripts linked to open source.</p>
 
 ## Usage
 
@@ -18,4 +16,4 @@ Collection of useful scripts linked to open source.
   </a>
 </p>
 
-<sub>The Open {re}Source mark and the header image (`.github/header.*`) are not covered by the licence of this repository: all rights reserved.</sub>
+<sub>The Open {re}Source mark and the logo-title (`.github/logo-title-*`) are not covered by the licence of this repository: all rights reserved.</sub>
